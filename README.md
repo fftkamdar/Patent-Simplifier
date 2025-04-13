@@ -30,7 +30,6 @@ Clone this repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/patent-description-simplifier.git
 cd patent-description-simplifier
 Install the required dependencies (Flask):
 
